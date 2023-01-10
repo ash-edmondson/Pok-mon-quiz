@@ -1,2 +1,2 @@
-# Pok-mon-quiz
+# Pokemon-quiz
 A Pokémon quiz coded in Ruby
