@@ -56,7 +56,7 @@ questions.length.times do
 end
   puts "your score is #{player_score}"
 
-  if player_score == 10 
+  if player_score == 11 
   puts "You are a Pokémon master"
 
     elsif player_score >= 5 and player_score <=9 
