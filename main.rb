@@ -27,7 +27,9 @@ questions={
 
     "In which country did Pokémon originate? \n\na) USA \nb) Japan \nc)South Korea" => "b",
 
-    "What was the first Pokémon Ash caught? \n\na) Caterpie \nb) Pikachu \nc) Piplup" => "a",
+    "What was the first  Ash caught? \n\na) Caterpie \nb) Pikachu \nc) Piplup" => "a",
+
+    "What is the name of the 2022 Pokémon games \n\na) Yellow and Ruby \nb) scarlet and violet  \nc) Pokémon Sword and Pokémon Shield" => "b",
 }
 #ask question
 
